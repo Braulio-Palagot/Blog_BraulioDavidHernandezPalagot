@@ -1,3 +1,5 @@
-# Practica_PaginaResponsiveDesdeCero
+# Blog Académico
 
-Enlace al sitio: [GitHub Pages](https://braulio-palagot.github.io/Practica_PaginaResponsiveDesdeCero/)
+Braulio David Hernández Palagot
+
+Enlace al sitio: [GitHub Pages](https://braulio-palagot.github.io/Blog_BraulioDavidHernandezPalagot/)
